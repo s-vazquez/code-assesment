@@ -9,7 +9,7 @@ This repository is a boilerplate application that contains:
 
 ## Your task
 
-Create a web app that expose the trend movies retrieved from The Movie Database GraphQL Wrapper (https://github.com/nerdsupremacist/tmdb). The app will have to contain the following details:
+Create a React web app that expose the trend movies retrieved from [The Movie Database GraphQL Wrapper](https://github.com/nerdsupremacist/tmdb)'s https://tmdb.apps.quintero.io/ GraphQL endpoint. The app will have to contain the following details:
 
 - A dedicated Nx library for the React components created.
 - A simple list with infinity scroll that will show a 2 x M (two by M) grid showing a card component for each movie containing:
